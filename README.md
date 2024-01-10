@@ -14,7 +14,7 @@ I am a web developer who has been working for 4+ years, and i'm also a flutter d
 ### Skills
 
 
-<div style="display:flex; gap:8px;">
+<p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
   </a>
