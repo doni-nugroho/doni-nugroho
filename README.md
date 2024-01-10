@@ -25,6 +25,11 @@ I am a web developer who has been working for 4+ years, and i'm also a flutter d
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="Python" />
     </picture>
   </a>
+   <a href="#" target="_blank" rel="noreferrer">
+    <picture>
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Python" />
+    </picture>
+  </a>
   <a href="https://dart.dev/" target="_blank" rel="noreferrer">
     <picture>
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" />
