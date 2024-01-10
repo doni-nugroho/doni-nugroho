@@ -22,17 +22,7 @@ I am a web developer who has been working for 4+ years, and i'm also a flutter d
   </a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <picture>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="Python" />
-    </picture>
-  </a>
-   <a href="#" target="_blank" rel="noreferrer">
-    <picture>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Python" />
-    </picture>
-  </a>
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <picture>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="php" />
     </picture>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -40,14 +30,24 @@ I am a web developer who has been working for 4+ years, and i'm also a flutter d
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
     </picture>
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+   <a href="#" target="_blank" rel="noreferrer">
     <picture>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="javascript" />
     </picture>
   </a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
     <picture>
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
+    </picture>
+  </a>
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
+    <picture>
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" />
+    </picture>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
     </picture>
   </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
