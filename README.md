@@ -9,7 +9,7 @@ I am a web developer who has been working for 4+ years, and i'm also a flutter d
 * 🌍  I'm based in Yogyakarta, Indonesia
 * ✉️  You can contact me at [dnsatrio25@gmail.com](mailto:dnsatrio25@gmail.com)
 * 🚀  I'm recently working on [GCD FM](https://gcdfm.com/), [BPR BKK MUNTILAN](https://php8.citraweb.co.id/bkk-muntilan/), and [Baraya Paket](https://baraya-paket.com/)
-* 💻   my new pub dev [Model Code Generator](https://pub.dev/packages/model_code_generator)
+* 💻  my new pub dev [Model Code Generator](https://pub.dev/packages/model_code_generator)
 * 🤝  I'm open to collaborating on Web and Mobile Flutter Development Project 
 
 ### Skills
